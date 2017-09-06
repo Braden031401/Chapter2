@@ -23,7 +23,7 @@ System.out.print("Enter a word ending with est>>");
 wordEst = input.nextLine();
 System.out.print("Enter Plural Body Parts>>");
 bodyPartPlural = input.nextLine();
-System.out.print("Enter an Animal>>");
+System.out.print("Enter a plural Animal>>");
 anAnimal = input.nextLine();
 System.out.print("Enter a Noun>>");
 aNoun = input.nextLine();
@@ -39,7 +39,9 @@ c = a - b;
 
 
 
-System.out.print("The "+ color + "Dragon is the "+ wordEst +" Dragon of all. " 
+System.out.print("The "+ color + "Dragon is the "+ wordEst +" Dragon of all. ");
+System.out.print("Whenever it gets hungry it hunts " + anAnimal + " for food.");
+
 
 	}
 
