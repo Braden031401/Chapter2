@@ -14,7 +14,7 @@ public class InchesToFeetInteractive {
 		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("Specify number of inches >>>");
+		System.out.print("Specify number of inches >>> ");
 		inches = input.nextInt();
 		
 		feet = inches / 12;
@@ -25,7 +25,7 @@ public class InchesToFeetInteractive {
 		
 	
 		
-		System.out.print("There are "+ inches +" inches in "+ feet +" feet "+ ExtraInches +" inches.");
+		System.out.print("There are "+ inches +" inches in "+ feet +" feet "+ ExtraInches +" inch(es).");
 		
 		
 		
