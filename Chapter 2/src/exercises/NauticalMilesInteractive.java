@@ -22,7 +22,7 @@ public class NauticalMilesInteractive {
 		
 		
 		
-		System.out.println(" there are "+ Kilometers +" Kilometers, and "+ Miles +" Miles in "+ Nautical +" Nautical Mile(s).");
+		System.out.println("There are "+ Kilometers +" Kilometers, and "+ Miles +" Miles in "+ Nautical +" Nautical Mile(s).");
 
 	}
 
