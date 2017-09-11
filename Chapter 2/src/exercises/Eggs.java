@@ -19,7 +19,7 @@ public class Eggs {
 		System.out.print("How many eggs do you want? >>> ");
 		Eggs = input.nextInt();
 		
-		Dozen = Eggs / 12 ;
+		Dozen = Eggs / 12;
 		Single = Eggs % 12;
 		
 		PriceDozen = Dozen * 3.25;
